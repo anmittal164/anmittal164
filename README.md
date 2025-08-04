@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/anmittal164/anmittal164/blob/main/DevOps%20Image-2.jpeg)]
+(https://github.com/anmittal164/anmittal164/blob/main/DevOps%20Image-2.jpeg)
 <h1 align="center">Hi 👋, I'm Anand Kumar Mittal</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
