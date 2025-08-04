@@ -1,7 +1,6 @@
-## Hi there 👋
-
-<!--
-**anmittal164/anmittal164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![MasterHead](https://github.com/salwad-basha-shaik/salwad-basha-shaik/assets/39498166/ef8d812e-3c06-4747-b8db-d4681e3e6fdd)](https://salwadbashashaik.cloud/)
+<h1 align="center">Hi 👋, I'm Anand Kumar Mittal</h1>
+<h3 align="center">A passionate DevOps engineer from India</h3>
 
 Here are some ideas to get you started:
 
